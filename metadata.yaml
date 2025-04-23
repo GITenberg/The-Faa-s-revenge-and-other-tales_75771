@@ -1,0 +1,43 @@
+_repo: The-Faa-s-revenge-and-other-tales_75771
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wilson, John Mackay
+    birthdate: 1804
+    deathdate: 1835
+    gutenberg_agent_id: '32367'
+    url: http://www.gutenberg.org/2009/agents/32367
+    wikipedia: https://en.wikipedia.org/wiki/John_Mackay_Wilson
+  - agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2025-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75771'
+language: en
+pgterms:marc905: 20250405092840wilson
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bGall and Inglis, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Scotland -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'The Faa''s revenge; or, the laird of Clennel, by John Mackay Wilson
+  -- The rival nightcaps, by Alexander Campbell -- The story of Clara Douglas, by
+  Walter Logan -- Country quarters, by Theodore Martin -- The merchant''s daughter,
+  by Alexander Campbell -- May Darling, the village pride, by J. F. Smith -- Mortlake:
+  a legend of Morton, by James Maidment -- Major Weir''s coach: a legend of Edinburgh,
+  by George Howell -- We''ll have another, by John Mackay Wilson.'
+title: The Faa's revenge, and other tales
+url: http://www.gutenberg.org/ebooks/75771
