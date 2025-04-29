@@ -1,5 +1,8 @@
 _repo: The-Faa-s-revenge-and-other-tales_75771
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75771-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Wilson, John Mackay
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75771#The-Faa-s-revenge-and-other-tales
 gutenberg_issued: '2025-04-06'
 gutenberg_type: Text
 identifiers:
